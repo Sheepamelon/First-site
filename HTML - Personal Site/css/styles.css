@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: cyan;
+  font-family: cursive;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: white;
+  width: 5%;
+}
+h1 {
+  color: red;
+  text-decoration: underline;
+}
+h3 {
+  color: red;
+  text-decoration: underline;
+}
+img {
+  background-color: red
+}
